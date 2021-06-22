@@ -1,0 +1,9 @@
+update.c:24:10:read_source	32	static
+update.c:60:16:save_source	600	static
+update.c:121:13:update_tci_source	576	static
+update.c:131:9:update_source	1824	static
+update.c:377:16:analysis_merge_head	104	static
+update.c:433:16:check_addr	16	static
+update.c:469:16:merge_next_file	16	static
+update.c:497:13:wirte_nand	48	static
+update.c:538:6:update_app	4696	static
